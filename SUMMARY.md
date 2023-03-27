@@ -1,12 +1,23 @@
 # Table of contents
 
-* [intro](README.md)
-* [WPF](wpf/README.md)
-  * [WPF](wpf/README.md)
-  * [XAML](wpf/xaml.md)
-* [MVVM Pattern](mvvmppattern.md)
+* [Today I Learned](README.md)
 
-## Group 1
+## C# WPF
 
-* [C# WPF](group-1/c-wpf/README.md)
-  * [WPF](group-1/c-wpf/wpf.md)
+* [C# WPF](c-wpf/c-wpf/README.md)
+  * [Untitled](c-wpf/c-wpf/untitled.md)
+* [XAML](c-wpf/xaml/README.md)
+  * [DataBinding](c-wpf/xaml/databinding.md)
+
+## Pattern
+
+* [MVVM Pattern](pattern/mvvm-pattern.md)
+
+## UML
+
+* [Use Case](uml/use-case.md)
+* [Class Diagram](uml/class-diagram.md)
+
+## Gitbook
+
+* [Github 연동](gitbook/github.md)
