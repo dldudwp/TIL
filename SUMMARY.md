@@ -1,7 +1,7 @@
 # Table of contents
 
 * [intro](README.md)
-* [WPF](WPF/WPF.md)
-  * [WPF](WPF/WPF.md)
-  * [XAML](WPF/XAML.md)
-* [MVVM Pattern](<MVVM Pattern/MVVMPPattern.md>)
+* [WPF](wpf/README.md)
+  * [WPF](wpf/README.md)
+  * [XAML](wpf/xaml.md)
+* [MVVM Pattern](mvvmppattern.md)
