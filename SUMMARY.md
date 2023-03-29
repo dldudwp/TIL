@@ -7,6 +7,8 @@
 * [C# WPF](c-wpf/c-wpf/README.md)
   * [SingletonSean](c-wpf/c-wpf/singletonsean/README.md)
     * [Models - WPF MVVM TUTORIAL #1](c-wpf/c-wpf/singletonsean/models-wpf-mvvm-tutorial-1.md)
+  * [CommunityToolkit.Mvvm](c-wpf/c-wpf/communitytoolkit.mvvm/README.md)
+    * [DependencyInjection](c-wpf/c-wpf/communitytoolkit.mvvm/dependencyinjection.md)
 * [XAML](c-wpf/xaml/README.md)
   * [DataBinding](c-wpf/xaml/databinding.md)
 
