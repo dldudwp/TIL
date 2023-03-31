@@ -9,6 +9,7 @@
     * [Models - WPF MVVM TUTORIAL #1](c-wpf/c-wpf/singletonsean/models-wpf-mvvm-tutorial-1.md)
   * [CommunityToolkit.Mvvm](c-wpf/c-wpf/communitytoolkit.mvvm/README.md)
     * [DependencyInjection](c-wpf/c-wpf/communitytoolkit.mvvm/dependencyinjection.md)
+  * [Basic](c-wpf/c-wpf/basic.md)
 * [XAML](c-wpf/xaml/README.md)
   * [DataBinding](c-wpf/xaml/databinding.md)
 
