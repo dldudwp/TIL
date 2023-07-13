@@ -1,5 +1,5 @@
 # CommunityToolkit.Mvvm
 
-`CommunityToolkit.Mvvm` íŒ¨í‚¤ì§€(ì´ì „ ëª…ì¹­`Microsoft.Toolkit.Mvvm`ì€ MVVM ë„êµ¬ í‚¤íŠ¸)ëŠ” ìµœì‹ ì˜ ë¹ ë¥´ê³  ëª¨ë“ˆì‹ MVVM ë¼ì´ë¸ŒëŸ¬ë¦¬ì…ë‹ˆë‹¤. .
+CommunityToolkit.Mvvm ÆĞÅ°Áö(ÀÌÀü ¸íÄªMicrosoft.Toolkit.MvvmÀº MVVM µµ±¸ Å°Æ®)´Â ÃÖ½ÅÀÇ ºü¸£°í ¸ğµâ½Ä MVVM ¶óÀÌºê·¯¸®ÀÔ´Ï´Ù. .
 
 [https://learn.microsoft.com/ko-kr/dotnet/communitytoolkit/mvvm/](https://learn.microsoft.com/ko-kr/dotnet/communitytoolkit/mvvm/)

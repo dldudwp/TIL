@@ -1,23 +1,23 @@
 ---
-description: 의존성 주입
+description: ?��존성 주입
 ---
 
 # DependencyInjection
 
 
 
-설치필요i    : Microsoft.Extensions.DependencyInjection
+LIB : Microsoft.Extensions.DependencyInjection
 
 
 
 IOC
 
-* 모듈성을 높이는데 사용
-* 백엔드에 삽입되는 여러서비스(ViewModel 생성자에 매개변수로 전달) 을 만드는데 사용
+* ��⼺�� ���̴µ� ���
+* �鿣�忡 ���ԵǴ� ��������(ViewModel �����ڿ� �Ű������� ����) �� ����µ� ���
 
 
 
-서비스 구성
+���� ����
 
 ```
 public sealed partial class App : Application
@@ -56,9 +56,6 @@ public sealed partial class App : Application
 
 
 
-여기서 모든 어플리케이션 서비스 및 ViewMOdel 이 등록됨
-
-
-
+���⼭ ��� ���ø����̼� ���� �� ViewMOdel �� ��ϵ�
 
 
