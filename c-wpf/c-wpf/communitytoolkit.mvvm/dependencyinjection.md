@@ -1,5 +1,5 @@
 ---
-description: ?˜ì¡´ì„± ì£¼ì…
+description: ì˜ì¡´ì„±ì£¼ì…
 ---
 
 # DependencyInjection
@@ -7,55 +7,3 @@ description: ?˜ì¡´ì„± ì£¼ì…
 
 
 LIB : Microsoft.Extensions.DependencyInjection
-
-
-
-IOC
-
-* ¸ğµâ¼ºÀ» ³ôÀÌ´Âµ¥ »ç¿ë
-* ¹é¿£µå¿¡ »ğÀÔµÇ´Â ¿©·¯¼­ºñ½º(ViewModel »ı¼ºÀÚ¿¡ ¸Å°³º¯¼ö·Î Àü´Ş) À» ¸¸µå´Âµ¥ »ç¿ë
-
-
-
-¼­ºñ½º ±¸¼º
-
-```
-public sealed partial class App : Application
-{
-    public App()
-    {
-        Services = ConfigureServices();
-        startup += App_Startup;
-    }
-    
-    private void App_Startup(object sender, StartupEventArgs e)
-    {
-        var mainView = AApp.Current.Services.GetService<MainView>();
-        mainView.SHow();
-    }
-    
-    public new static App Current => (App)Application.Current;
-
-    public IServiceProvider Services { get; }
-
-
-    private static IServiceProvider ConfigureServices()
-    {
-        var services = new ServiceCollection();
-
-        //services.AddSingleton<IFilesService, FilesService>();
-        //services.AddSingleton<ISettingsService, SettingsService>();
-        //services.AddSingleton<IClipboardService, ClipboardService>();
-        //services.AddSingleton<IShareService, ShareService>();
-        //services.AddSingleton<IEmailService, EmailService>();
-
-        return services.BuildServiceProvider();
-    }
-}
-```
-
-
-
-¿©±â¼­ ¸ğµç ¾îÇÃ¸®ÄÉÀÌ¼Ç ¼­ºñ½º ¹× ViewMOdel ÀÌ µî·ÏµÊ
-
-

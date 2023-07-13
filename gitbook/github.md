@@ -7,7 +7,7 @@ Github 와 Gitbook 을 연동 할 수 있다.
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>ㅇ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>�뀋</p></figcaption></figure>
 
 1. 연동하려는 스페이스의 우측에  점세개 를 클릭
 2. Synchronizewith Git 클릭
