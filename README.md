@@ -2,4 +2,4 @@
 
 Today I Learned
 
-* ?ƒˆë¡? ?•Œê²? ?œ ê²ƒë“¤?„ ? •ë¦?
+* Try not to become a man of success But rather to become a man of value.
