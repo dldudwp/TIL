@@ -5,7 +5,6 @@
 ## 1. General Development Skills
 
 ## 2. C#
-* [CommunityToolkit.Mvvm](c-wpf/c-wpf/communitytoolkit.mvvm/README.md)
 
 ## 3. SQL Fundamentals
 
@@ -14,6 +13,11 @@
 ## 5. ORM
 
 ## 6. SOLID
+* [SRP](6.%20SOLID/SRP.md)
+* [OCP](6.%20SOLID/OCP.md)
+* [LSP](6.%20SOLID/LSP.md)
+* [ISP](6.%20SOLID/ISP.md)
+* [DIP](6.%20SOLID/DIP.md)
 
 ## 7. Dependency Injection
 
