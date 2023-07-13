@@ -1,2 +1,0 @@
-#MVVVM Pattern
-- MVVVM Pattern
