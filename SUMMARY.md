@@ -22,4 +22,4 @@
 
 ## Gitbook
 
-* [Github ¿¬µ¿](gitbook/github.md)
+* [Github ì—°ë™](gitbook/github.md)
