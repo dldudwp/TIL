@@ -1,7 +1,8 @@
 # DIP(Dependency Inversion Principle)
 
-의존성 역전 원칙
+<span style="font-familly:Papyrus;font-size:2em;">의존성 역전 원칙</span>
 
+<br/>
 
 
 
