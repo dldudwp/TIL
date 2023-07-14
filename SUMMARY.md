@@ -38,7 +38,7 @@ Caching
 Log Frameworks
 
 ## 11. API Clients & Communications
-API Clients & Communications
+*[RESET](11.%20API%20Clients%20n%20Communications/REST/REST.md)
 
 ## 12. Object Mapping
 Object Mapping
