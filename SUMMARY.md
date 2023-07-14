@@ -18,7 +18,7 @@ ASP.NET COre Basics
 ORM
 
 ## 6. SOLID
-[SOLID](6.%20SOLID/SOLID.md)
+* [SOLID](6.%20SOLID/SOLID.md)
 * [SRP](6.%20SOLID/SRP.md)
 * [OCP](6.%20SOLID/OCP.md)
 * [LSP](6.%20SOLID/LSP.md)

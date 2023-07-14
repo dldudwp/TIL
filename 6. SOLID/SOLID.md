@@ -26,6 +26,8 @@ L : Liskov Substitution Principle (LSP)
 I : Interface Segregation Principle (ISP)
 D : Dependency Inversion Principle (DIP)
 
+***참고 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
+
 ==========================================================
 
 [<- Go to Home](../SUMMARY.md)
