@@ -9,7 +9,7 @@ General Development Skills
 C#
 
 ## 3. SQL Fundamentals
-SQL Fundamentals
+* [LINQ](2.%20C%23/LINQ/LINQ.md)
 
 ## 4. ASP.NET COre Basics
 ASP.NET COre Basics
